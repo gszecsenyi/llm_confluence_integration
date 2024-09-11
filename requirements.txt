@@ -1,0 +1,9 @@
+langchain
+gradio
+langchain-community
+openai
+atlassian-python-api
+langchain_openai
+lxml
+chromadb
+langgraph
